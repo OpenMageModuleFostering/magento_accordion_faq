@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/magento_accordion_faq",
+    "name": "openmage-module-fostering\/magento_accordion_faq",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Magento Accordion Faq",
     "authors": [
