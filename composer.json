@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/magento_accordion_faq",
+    "name": "OpenMageModuleFostering\/magento_accordion_faq",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "Magento Accordion Faq",
     "authors": [
-    {
-        "name": "Hire Magento Inc.",
-        "email": "hiremagento@gmail.com"
-    }
-],
+        {
+            "name": "Hire Magento Inc.",
+            "email": "hiremagento@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
